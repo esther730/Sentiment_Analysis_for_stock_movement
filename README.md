@@ -12,8 +12,8 @@
 2. Deep learning for event-driven stock prediction
 
 ### Models:
-1.Random forest
-2.SVM
+1. Random forest
+2. SVM
 
 ### Stocks:
 1. S&P500
