@@ -22,3 +22,8 @@
 2. Google
 3. Walmart
 4. Boeing
+
+
+![Screenshot](https://github.com/locational/urap-maas-models/blob/master/cluster1.PNG)
+
+![Screenshot](https://github.com/locational/urap-maas-models/blob/master/corr.PNG)
