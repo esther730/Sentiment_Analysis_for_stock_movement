@@ -24,6 +24,15 @@
 4. Boeing
 
 
+### Conclusions:
+1. The movements are more predictable when stronger polarity
+2. Positivity/Negativity of news will impact the market for 1~4 days
+3. Sentiment polarity is positively correlated to SP500 movement
+4. LM  and HE dictionaries play a more important role in deciding the stock movement
+5. Random forest model works better than logistic regression model for risk management problem(lower false positive rate)
+5. Sentiment Analysis at least works better than random guess or naïve guess for daily stock movement prediction(accuracy >58%)
+
+
 ![Screenshot](https://github.com/esther730/Sentiment_Analysis_for_stock_movement/blob/master/cluster1.PNG)
 
 ![Screenshot](https://github.com/esther730/Sentiment_Analysis_for_stock_movement/blob/master/corr.PNG)
