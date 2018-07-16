@@ -5,7 +5,8 @@
 ### Dictionary:
 1. Harvard IV-4 Sentiment Dictionaries
 2. Loughran and McDonald Financial Sentiment Dictionaries
-
+3. Henry’s finance-specific dictionary
+4. QDAP Dictionaries
 
 ### Paper Referance:
 1. Using structured event to predict stock movement
@@ -14,6 +15,7 @@
 ### Models:
 1. Random forest
 2. SVM
+3. Logistic Regression
 
 ### Stocks:
 1. S&P500
