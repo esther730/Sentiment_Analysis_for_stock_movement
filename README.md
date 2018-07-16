@@ -1,5 +1,5 @@
 # Using Social Media as an Early Signal for Risk Management
-## This is a capstone project for the stat222.
+## This capstone project is for the Statistics Master Program at UC Berkeley.
 ### In this project, we will use financial news from Reuters and Bloomberg between 2006 to 2013 to perform sentiment analysis, and use the sentiment outputs with machine learning models to predict stock movement. (Data referance: https://github.com/philipperemy/financial-news-dataset)
 
 ### Dictionary:
