@@ -24,6 +24,6 @@
 4. Boeing
 
 
-![Screenshot](https://github.com/locational/urap-maas-models/blob/master/cluster1.PNG)
+![Screenshot](https://github.com/esther730/Sentiment_Analysis_for_stock_movement/blob/master/cluster1.PNG)
 
-![Screenshot](https://github.com/locational/urap-maas-models/blob/master/corr.PNG)
+![Screenshot](https://github.com/esther730/Sentiment_Analysis_for_stock_movement/blob/master/corr.PNG)
